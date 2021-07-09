@@ -1,0 +1,4 @@
+TestSoap\HelloClient.class
+TestSoap\HelloWorldImpl.class
+TestSoap\HelloWorld.class
+TestSoap\HelloServer.class
